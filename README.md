@@ -14,4 +14,5 @@ Technologies Used :
 
 1) HTML: The structure of the web pages.
 2) CSS: Styling of the application with a focus on responsiveness.
-3) Unsplash API (suggested): The app uses image URLs from Unsplash for demonstrating the image search functionality
+3) JavaScript : JavaScript for main working functionality of the web application. 
+4) Unsplash API (suggested): The app uses image URLs from Unsplash for demonstrating the image search functionality.
